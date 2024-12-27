@@ -1,0 +1,27 @@
+[
+  {
+    "type": "Languages",
+    "skillset": "HTML, CSS, JavaScript, Python, C++, Java",
+    "exp": "2 years"
+  },
+  {
+    "type": "Frameworks/Libraries",
+    "skillset": "React.js, Node.js, Express, RESTful APIs, MySQL, MongoDB",
+    "exp": "2 years"
+  },
+  {
+    "type": "Databases",
+    "skillset": "MySQL, MongoDB",
+    "exp": "1 years"
+  },
+  {
+    "type": "Devops",
+    "skillset": "Git, Docker",
+    "exp": "1 years"
+  },
+  {
+    "type": "Tools",
+    "skillset": "VS Code, Jupyter Notebook",
+    "exp": "1 years"
+  }
+]

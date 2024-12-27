@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "companyName": "Research Design Labs",
+    "employment": "Internship",
+    "duration": "Apr 2024 - Sept 2024",
+    "mode": "On-site",
+    "location": "Mangaluru, Karnataka",
+    "verifyLink": "https://www.linkedin.com/in/kavana-31dec/overlay/experience/2388418675/multiple-media-viewer/?profileId=ACoAAElvrsMB9BRJRfsVr7Y28yI6V7p1qRj6CSE&treasuryMediaId=1727949459556",
+    "project": {
+      "title": "RFID Inventory System",
+      "category": "Inventory Management System",
+      "desc": "An RFID tracking system to monitor goods' processing times. It includes real-time tracking, an admin console, and tools to identify bottlenecks. Built with SQL, Express, Node.js, and React.js, it improved inventory management and boosted my skills in RFID technology and full-stack development. "
+    }
+  }
+]

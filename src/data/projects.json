@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Watchlists",
+    "category": "Movie Watchlists App",
+    "date": "Oct 2024",
+    "description": "Watchlists is a sleek web application designed for creating and managing your personal movie watchlist. Powered by the OMDB API, it provides a modern and user-friendly interface for searching and organizing your favorite films. Built with Vite, React, and Tailwind CSS, this application is perfect for film enthusiasts wanting to stay organized!",
+    "link": "https://watchlists-one.vercel.app/",
+    "imgUrl": "/project/watchlists.jpg"
+  },
+  {
+    "title": "RFID Inventory System",
+    "date": "Jan 2024",
+    "category": "Inventory Management System",
+    "description": "An RFID tracking system to monitor goods' processing times. It includes real-time tracking, an admin console, and tools to identify bottlenecks. Built with SQL, Express, Node.js, and React.js, it improved inventory management and boosted my skills in RFID technology and full-stack development.",
+    "link": "https://github.com/kavanapateel/Project-Internship/",
+    "imgUrl": "/project/rfid_system.png"
+  },
+  {
+    "title": "Hostel Manager",
+    "category": "Hostel Management App",
+    "date": "Mar 2023",
+    "description": "An Android application developed using Android Studio - Java. The basic functionality of registration of students and retrieving those applied students records, allocation and deallocation of rooms by caretakers. The app also served as an ID card for the students to enter their premises. This application focused on replacing the traditional method.",
+    "link": "https://github.com/kavanapateel/Hostel-Manager/",
+    "imgUrl": "/placeholder.jpg"
+  },
+  {
+    "title": "Art of Cakes",
+    "category": "E-commerce Website",
+    "date": "Sept 2022",
+    "description": "Developed a Bakery Order Management web app using HTML, CSS, PHP, and JavaScript. The app allows customers to easily browse the menu, customize orders, and provide specific instructions. On the backend, PHP handles order processing to streamline the bakery's workflow. This project improved my web development skills and provided insights into creating practical, user-friendly applications.",
+    "link": "https://github.com/kavanapateel/ArtOfCakes/",
+    "imgUrl": "/project/art_of_cakes.jpg"
+  }
+]

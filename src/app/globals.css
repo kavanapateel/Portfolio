@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #111;
+  --foreground: #eee;
+  scrollbar-width: thin;
+  scrollbar-color: var(--foreground) transparent;
+  overscroll-behavior: none;
+}
